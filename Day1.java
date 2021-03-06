@@ -3,11 +3,12 @@ PLAN
 1. variables
 2. printing to console
 3. strings formatting "\n"
-4. if-else
-5. for loops
-6. while loops
-7. scanner user input 
-8. external functions 
+4. math operations, +=, -=, *=, /= , %=
+5. if-else
+6. for loops
+7. while loops
+8. scanner user input 
+9. external functions 
 
 Problems:
 1. factorial calculator with while loops
