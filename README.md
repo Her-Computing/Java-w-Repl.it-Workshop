@@ -3,8 +3,5 @@ Source Code for FTC 15534 Java w/Repl.it Workshop
 
 Plan:
 Day 1
-  - test
-  - test
-Day 2
- - test
- - 
+  - Setup repl.it for everyone
+  - Do variables, print, if else, for loops, while loops, and other basic concepts <br>
