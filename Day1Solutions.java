@@ -1,6 +1,6 @@
 class Day1Solutions {
   
-  //factorial
+  	//factorial
 	public long factorial(int n) {
     	long fact = 1;
     	for (int i = 2; i <= n; i++) {
@@ -9,7 +9,7 @@ class Day1Solutions {
     	return fact;
 	}
 
-  //coding bat solutions
+  	//coding bat solutions
 	public boolean sleepIn(boolean weekday, boolean vacation) {
   		if (!weekday || vacation) {
     		return true;
