@@ -12,7 +12,7 @@ class Day1Solutions {
   	//coding bat solutions
 	public boolean sleepIn(boolean weekday, boolean vacation) {
   		if (!weekday || vacation) {
-    		return true;
+    			return true;
   		}
   		return false;
 	}
