@@ -6,7 +6,7 @@ class Day1Solutions {
     	for (int i = 2; i <= n; i++) {
         	fact *= i;
     	}
-    	return fact;
+    		return fact;
 	}
 
   	//coding bat solutions
