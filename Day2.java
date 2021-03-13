@@ -2,6 +2,7 @@
 1. while loops
 2. scanner user input 
 3. external functions 
+4. reading and writing to files
 
 Problems:
 1. factorial calculator with while loops
