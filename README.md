@@ -7,3 +7,5 @@ Source Code for FTC 15534 Java w/Repl.it Workshop
   - Do variables, print, if else, for loops, while loops, and other basic concepts <br>
 2. Day 2
   - While loops, scanner input output, external functions, 3 coding bat problems <br>
+3. Day 3
+  - fileio, then start brainstorming and working on text based adventure game
