@@ -1,0 +1,20 @@
+attendance:
+1. sid
+2. gavin
+3. alisha
+4. ryan
+5. sanjana
+6. kedaar
+7. samraj
+
+attendance day 2:
+1. kedaar
+2. alisha
+3. arjun
+4. ryan c
+5. samraj
+
+attendance day 3:
+1. kedaar
+2. alisha
+3. samraj
