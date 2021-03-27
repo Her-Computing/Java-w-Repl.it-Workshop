@@ -1,4 +1,4 @@
-# Java-w-Repl.it-Workshop
+1# Java-w-Repl.it-Workshop
 Source Code for FTC 15534 Java w/Repl.it Workshop
 
 # Plan: <br>
@@ -9,3 +9,5 @@ Source Code for FTC 15534 Java w/Repl.it Workshop
   - While loops, scanner input output, external functions, 3 coding bat problems <br>
 3. Day 3
   - fileio, then start brainstorming and working on text based adventure game
+4 - Day 4
+  - final projects, gimkit, feedback form
